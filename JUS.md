@@ -8,3 +8,11 @@ Research goals:
     - Role of efference copy to cerebellum (via BPN) during reaching
     - Role of frontal cortex during two-position reaching
     - Role of IT and PT neurons in motor cortex during reaching
+
+Techniques:
+    - Electrophysiology
+    - Optogenetics
+    - Viral (rabies) tracing
+    - Histology
+    - Tissue clearing
+    - Light-sheet imaging
