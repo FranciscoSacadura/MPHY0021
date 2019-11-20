@@ -1,6 +1,6 @@
 
-Janelia Undergraduate Scholars - Hantman lab
-============================================
+Janelia Undergraduate Scholars - Adam Hantman lab
+=================================================
 
 Research goals:
     - Role of proprioceptive feedback to cerebellum (via ECN) during reaching
