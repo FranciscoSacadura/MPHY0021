@@ -14,6 +14,10 @@ Techniques:
 + Tissue clearing
 + Light-sheet imaging
 
+Analysis:
++ DeepLabCut => Track movement kinematics
++ Kilosort2/Phy => Spike sorting
+
 Preliminary results:
 + ECN perturbations have minor effects on online motor control
 + Over time, reach success and kinematics degraded
